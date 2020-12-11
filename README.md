@@ -1,5 +1,10 @@
 # 隐私政策文本链接
 
+## 国家标准文本
+[GB/T 35273-2020|信息安全技术 个人信息安全规范](http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
+
+
+
 
 ## 国外
 [Legal - Privacy Policy - Apple](https://www.apple.com/legal/privacy/szh/)
